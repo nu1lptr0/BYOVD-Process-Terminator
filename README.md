@@ -13,6 +13,10 @@
 Usage: process_terminator.exe <pid>
 ```
 
+https://github.com/user-attachments/assets/86da149c-0792-4afd-9183-69302038a51a
+
+
+
 ## Writeup
 
 https://nu1lptr.blogspot.com/2024/09/zam64sys-byovd-process-terminator.html
