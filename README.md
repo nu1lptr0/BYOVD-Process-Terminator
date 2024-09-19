@@ -2,7 +2,7 @@
 
 - Malware authors are using the vulnerabilties in the `zam64.sys` and `zamgaurd64.sys` driver to use them as killing the EDRs/AVs processes.
 - These drivers are part of the `ZemannaAntiMalware`. 
-- I have taken the driver fro [loldrivers](https://www.loldrivers.io/drivers/e5f12b82-8d07-474e-9587-8c7b3714d60c/).
+- I have taken the driver from [loldrivers](https://www.loldrivers.io/drivers/e5f12b82-8d07-474e-9587-8c7b3714d60c/).
 
 ## Usage
 
